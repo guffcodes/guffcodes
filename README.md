@@ -3,7 +3,7 @@
 
               
 
-I'm an IT student at Rutgers University with a Cybersecurity concentration. I'm always exploring new technologies and sharing what I learn along the way. 
+Hey! I'm an IT student at Rutgers University with a Cybersecurity concentration. I'm always exploring new technologies and sharing what I learn along the way. 
 Feel free to explore my repositories, and let's connect! 🤝
 
 ## Skills
