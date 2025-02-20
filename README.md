@@ -44,11 +44,14 @@ Feel free to explore my repositories, and let's connect! 🤝
 ### Platforms
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&style=for-the-badge&logo=msazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-visual studio code-purple?&style=for-the-badge&logo=vscode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-visual studio code-darkblue?&style=for-the-badge&logo=vscode&logoColor=white" />
     <img src="https://img.shields.io/badge/-tableau desktop-black?&style=for-the-badge&logo=tableau&logoColor=white" />
     <img src="https://img.shields.io/badge/-microsoft excel-green?&style=for-the-badge&logo=msexcel&logoColor=white" />
     <img src="https://img.shields.io/badge/-codepen-black?&style=for-the-badge&logo=codepen&logoColor=white" />
     <img src="https://img.shields.io/badge/-replit-orange?&style=for-the-badge&logo=replit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-streamlit-red?&style=for-the-badge&logo=streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ubuntu-purple?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nextcloud-yellow?&style=for-the-badge&logo=nextcloud&logoColor=white" />
 </div>
 
 
