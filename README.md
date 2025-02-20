@@ -3,7 +3,7 @@
 
               
 
-Hey! I'm an IT student at Rutgers University with a Cybersecurity concentration. I'm always exploring new technologies and sharing what I learn along the way. 
+I'm an IT student at Rutgers University with a Cybersecurity concentration. I'm always exploring new technologies and sharing what I learn along the way. 
 Feel free to explore my repositories, and let's connect! 🤝
 
 ## Skills
@@ -13,7 +13,7 @@ Feel free to explore my repositories, and let's connect! 🤝
 | API Integration                                | <a href="https://github.com/guffcodes/programming_portfolio/blob/python/automation_projects/weather_fetcher.py">Weather Fetcher|</a>|
 | Network Configuration                          | <a href="https://www.linkedin.com/in/johntomaro/details/projects/1737861707707/single-media-viewer/?profileId=ACoAAD9WExIBayOeWuHHLKkjU-I34YKI9A8vms8">VM & Web Server|</a>|
 | Model Optimization for ML                      | <a href="https://github.com/guffcodes/programming_portfolio/blob/python/ML_Web_App/app.py">Machine Learning Web App|</a>|
-| Python Automation                              | <a href="https://github.com/guffcodes/programming_portfolio/tree/python/automation_projects">Simple Network Scanner|</a>|
+| Python Automation                              | <a href="https://github.com/guffcodes/programming_portfolio/tree/python/automation_projects">Automation Projects|</a>|
 
 
 ## Tools
