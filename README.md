@@ -27,6 +27,8 @@ Feel free to explore my repositories, and let's connect! 🤝
     <img src="https://img.shields.io/badge/r programming-purple?style=for-the-badge&logo=r&logoColor=white"/>
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/tableau-gray?style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/numpy-yellow?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white"/>
     <!--
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -45,13 +47,18 @@ Feel free to explore my repositories, and let's connect! 🤝
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&style=for-the-badge&logo=msazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-visual studio code-darkblue?&style=for-the-badge&logo=vscode&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tableau desktop-black?&style=for-the-badge&logo=tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/-microsoft excel-green?&style=for-the-badge&logo=msexcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tableau desktop-gray?&style=for-the-badge&logo=simpleanalytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/-microsoft excel-green?&style=for-the-badge&logo=readthedocs&logoColor=white" />
     <img src="https://img.shields.io/badge/-codepen-black?&style=for-the-badge&logo=codepen&logoColor=white" />
     <img src="https://img.shields.io/badge/-replit-orange?&style=for-the-badge&logo=replit&logoColor=white" />
     <img src="https://img.shields.io/badge/-streamlit-red?&style=for-the-badge&logo=streamlit&logoColor=white" />
     <img src="https://img.shields.io/badge/-ubuntu-purple?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-nextcloud-yellow?&style=for-the-badge&logo=nextcloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-claude-orange?&style=for-the-badge&logo=claude&logoColor=white" />
+    <img src="https://img.shields.io/badge/-gemini-lightblue?&style=for-the-badge&logo=googlegemini&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sheets-green?&style=for-the-badge&logo=googlesheets&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Colab-yellow?&style=for-the-badge&logo=googlecolab&logoColor=white" />
+
 </div>
 
 
