@@ -26,7 +26,7 @@ Feel free to explore my repositories, and let's connect! 🤝
     <img src="https://img.shields.io/badge/sql-green?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/r programming-purple?style=for-the-badge&logo=r&logoColor=white"/>
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/tableau-gray?style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tableau-gray?style=for-the-badge&logo=simpleanalytics&logoColor=white"/>
     <img src="https://img.shields.io/badge/numpy-yellow?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white"/>
     <!--
