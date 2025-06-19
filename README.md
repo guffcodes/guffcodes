@@ -6,6 +6,9 @@
 I'm an IT student at Rutgers University with a Cybersecurity concentration. I'm always exploring new technologies and sharing what I learn along the way. 
 Feel free to explore my repositories, and let's connect! 🤝
 
+## Solutions³ LLC Internship
+Explore my internship journey here! - <a href="https://github.com/guffcodes/S3_Cyber_Internship">S3 Internship Portfolio</a>
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -89,6 +92,4 @@ Feel free to explore my repositories, and let's connect! 🤝
 - Weather Fetcher
 - PDF Merger
 
-## Solutions³ LLC Internship
-Explore my internship journey here! - <a href="https://github.com/guffcodes/S3_Cyber_Internship">S3 Internship Portfolio</a>
 
