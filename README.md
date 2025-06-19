@@ -87,3 +87,7 @@ Feel free to explore my repositories, and let's connect! 🤝
 - QR Code Generator
 - Weather Fetcher
 - PDF Merger
+
+## Solutions³ Internship
+Check out my internship journey here: <a href="https://github.com/guffcodes/S3_Cyber_Internship">S3 Internship Portfolio</a>
+
