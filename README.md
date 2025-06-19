@@ -90,5 +90,5 @@ Feel free to explore my repositories, and let's connect! 🤝
 - PDF Merger
 
 ## Solutions³ LLC Internship
-Take a look at what I’ve been working on during my internship: <a href="https://github.com/guffcodes/S3_Cyber_Internship">S3 Internship Portfolio</a>
+Explore my internship journey here! - <a href="https://github.com/guffcodes/S3_Cyber_Internship">S3 Internship Portfolio</a>
 
