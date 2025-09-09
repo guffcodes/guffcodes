@@ -68,6 +68,7 @@ Explore my internship journey here! - <a href="https://github.com/guffcodes/S3_C
 
 ## Certifications
 <div>
+  <a href="https://www.credly.com/earner/earned/badge/82be4b52-2abd-46a4-82f5-f036917079b9"> <img src="https://img.shields.io/badge/-NIST Cybersecurity Foundation-purple?style=for-the-badge&logo=activeloop&logoColor=white"/> </a>  
   <a href="https://www.credly.com/badges/97275372-c3b8-45cb-98b3-b287899126ea/linked_in_profile"> <img src="https://img.shields.io/badge/-Google Cybersecurity Certificate-005FCC?style=for-the-badge&logo=google&logoColor=white"/> </a>  
   <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_nDAeEqAE4cSCjBeqM_1737740433517_completion_certificate.pdf"> <img src="https://img.shields.io/badge/-Cybersecurity Job Sim-red?style=for-the-badge&logo=mastercard&logoColor=white"/> </a>  
   <!--
