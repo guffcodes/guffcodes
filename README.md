@@ -32,6 +32,7 @@ Explore my internship journey here! - <a href="https://github.com/guffcodes/S3_C
     <img src="https://img.shields.io/badge/tableau-gray?style=for-the-badge&logo=simpleanalytics&logoColor=white"/>
     <img src="https://img.shields.io/badge/numpy-yellow?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white"/>
     <!--
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -61,6 +62,10 @@ Explore my internship journey here! - <a href="https://github.com/guffcodes/S3_C
     <img src="https://img.shields.io/badge/-gemini-lightblue?&style=for-the-badge&logo=googlegemini&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sheets-green?&style=for-the-badge&logo=googlesheets&logoColor=white" />
     <img src="https://img.shields.io/badge/-Colab-yellow?&style=for-the-badge&logo=googlecolab&logoColor=white" />
+    <img src="https://img.shields.io/badge/-hack the box-green?&style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-cisco packet tracer- black?&style=for-the-badge&logo=cisco&logoColor=white" />
+    
+    
 
 </div>
 
